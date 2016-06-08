@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:17:36.796211
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:24
 #+TITLE: 佛說未曾有經
 #+PROPERTY: CBETA_ID T16n0688
 #+PROPERTY: ID KR6i0378
